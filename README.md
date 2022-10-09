@@ -112,6 +112,7 @@ MOV CX,AX;
 MOV AH,00H;
 HLT;
  ```
+ ## Output 
  ### Loading AX and BX register with the Numbers whose Subtraction has to be found :
 ![img](pm9.jpg)
 ![img](pm10.jpg)
@@ -126,7 +127,7 @@ HLT;
 ![img](pm15.jpg)
 ### Status of flags:
 ![img](pm16.jpg)
-## Output  
+ 
 ## Multiplication ALP:
 ### program:
 ```
