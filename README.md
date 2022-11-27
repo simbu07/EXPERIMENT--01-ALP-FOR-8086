@@ -1,8 +1,9 @@
 # EXPERIMENT--01-ALP-FOR-8086
+```
 Name : Silambarasan K
-
 Roll no : 212221230101
-
+Date:
+```
 ## Aim: 
 To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator:
